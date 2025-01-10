@@ -4,7 +4,7 @@ var hitrn = 0;
 function makeBubble(){
     let bubble = '';
 
-for(let i =1 ; i<=168 ;i++){
+for(let i =1 ; i<= 161 ;i++){
     let rn = Math.floor(Math.random()*10)
   bubble += ` <div class="bubble">${rn}</div>`
 }
