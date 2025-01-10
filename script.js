@@ -1,4 +1,4 @@
-let timerint = 5;
+let timerint = 60;
 let score = 0;
 var hitrn = 0;
 function makeBubble(){
